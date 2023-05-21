@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FormularPaygateAPI/1.0.0": {
+        "dependencies": {
+          "CompuTop.Core.Crypto": "2.0.6156.30566"
+        },
+        "runtime": {
+          "FormularPaygateAPI.dll": {}
+        }
+      },
+      "CompuTop.Core.Crypto/2.0.6156.30566": {
+        "runtime": {
+          "CompuTop.Core.Crypto.dll": {
+            "assemblyVersion": "2.0.6156.30566",
+            "fileVersion": "2.0.6156.30566"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormularPaygateAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompuTop.Core.Crypto/2.0.6156.30566": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
